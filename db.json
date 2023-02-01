@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "latest_logs": [
+  "latest_logs": {
     "app_version": "0.1",
     "results": [
       {
@@ -45,5 +45,5 @@
         "amount": 126
       }
     ]
-  ]
+  }
 }

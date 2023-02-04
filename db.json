@@ -15,30 +15,35 @@
     "app_version": "0.1",
     "results": [
       {
+        "id": 1005,
         "datetime": "2023-02-01 01:23:45",
         "category": "日用品",
         "usage": "コンビニ",
         "amount": 1234
       },
       {
+        "id": 1004,
         "datetime": "2023-01-31 23:45:12",
         "category": "娯楽",
         "usage": "カラオケ",
         "amount": 5000
       },
       {
+        "id": 1003,
         "datetime": "2023-01-31 23:00:12",
         "category": "日用品",
         "usage": "コンビAニ",
         "amount": 500
       },
       {
+        "id": 1001,
         "datetime": "2023-01-31 23:00:12",
         "category": "日用品",
         "usage": "コンBニ",
         "amount": 1260
       },
       {
+        "id": 1000,
         "datetime": "2023-01-31 23:00:12",
         "category": "日用品",
         "usage": "コンビニ",

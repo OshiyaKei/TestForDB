@@ -64,8 +64,8 @@
   },
   "add_record": {
     "app_version": "0.1",
-    "results": [
+    "results": {
       "result_code": 200
-    ]
+    }
   }
 }

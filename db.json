@@ -22,7 +22,7 @@
       "ホテル"
     ]
   },
-  "latest_logs": {
+  "latest_records": {
     "app_version": "0.1",
     "results": [
       {
@@ -60,6 +60,12 @@
         "usage": "コンビニ",
         "amount": 126
       }
+    ]
+  },
+  "add_record": {
+    "app_version": "0.1",
+    "results": [
+      "result_code": 200
     ]
   }
 }
